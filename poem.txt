@@ -7,5 +7,6 @@ Blue
 Red
 Unicorn
 Pink
+Ponies
 These are the colors of my rainbow.
 And add unicorn.
