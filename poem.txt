@@ -5,5 +5,7 @@ Yellow
 Orange
 Blue
 Red
+Unicorn
 Pink
 These are the colors of my rainbow.
+And add unicorn.
